@@ -1,6 +1,3 @@
-## Descrição do repositório
-Usuário digita inteiros entre 0 e 5000 e ao digitar -1, o programa mostra todos os números digitados sem repetições.
-
 ## Primeiros passos
 Primeiramente é necessário ter o `gcc` em sua máquina.
 
